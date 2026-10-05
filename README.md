@@ -1,10 +1,10 @@
 <!-- tyhp-readme:start -->
 # tyhpdef/illuminate-support
 
-Tyhp type definitions for `illuminate/support` `13.32.0`.
+Tyhp type definitions for `illuminate/support` `13.33.0`.
 
 ```bash
-composer require --dev tyhpdef/illuminate-support:13.32.0
+composer require --dev tyhpdef/illuminate-support:13.33.0
 ```
 
 This is a metapackage. Composer also installs `tyhpdef/illuminate-support-impl` (type files).
