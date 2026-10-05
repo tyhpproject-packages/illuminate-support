@@ -1,0 +1,19 @@
+{
+    "name": "tyhpdef/illuminate-support",
+    "description": "Tyhp type definitions for illuminate/support 13.32.0.",
+    "type": "metapackage",
+    "license": "Apache-2.0",
+    "version": "13.32.0",
+    "keywords": [
+        "dev",
+        "static analysis"
+    ],
+    "require": {
+        "tyhpdef/illuminate-support-impl": "~13.32.0.0"
+    },
+    "extra": {
+        "tyhp": {
+            "impl": "tyhpdef/illuminate-support-impl"
+        }
+    }
+}
